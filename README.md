@@ -7,7 +7,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Xavier | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/yellow" />][linkedin]
+[<img align="left" alt="Xavier | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/blue" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/blue" />][instagram]
 [<img align="left" alt="Josh | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook/blue" />][facebook]
 
