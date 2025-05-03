@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory Projects</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/XavierPayton/Group_Policy_Managment_Prereq)
+  - [Group Policy Managment Labds:](https://github.com/XavierPayton/Group_Policy_Managment_Prereq)
 
 <h2>🤳Connect with me:</h2>
 
