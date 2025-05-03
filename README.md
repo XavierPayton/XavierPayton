@@ -9,7 +9,7 @@
 
 [<img align="left" alt="Xavier | LinkedIn" width="60px" src="https://cdn.simpleicons.org/linkedin/blue" />][linkedin]
 [<img align="left" alt="Xavier | Instagram" width="60px" src="https://cdn.simpleicons.org/instagram/blue" />][instagram]
-[<img align="left" alt="Xavier | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook/blue" />][facebook]
+[<img align="left" alt="Xavier | Facebook" width="60px" src="https://cdn.simpleicons.org/facebook/blue" />][facebook]
 
 [instagram]: https://www.instagram.com/the18yroldrealtor/
 [linkedin]: https://www.linkedin.com/in/xavier-payton-7b0574325/
