@@ -8,7 +8,7 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Xavier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Xavier | Instagram" width="22px" src="https://www.instagram.com/the18yroldrealtor/" />][instagram]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/the18yroldrealtor/
 [linkedin]: https://www.linkedin.com/in/xavier-payton-7b0574325/
